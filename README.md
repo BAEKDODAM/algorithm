@@ -52,7 +52,7 @@
 <img src='ex2.png'> -> 4를 보냄
 <img src='ex1.png'> -> 7을 보냄
 
-따라서 최대 유량 23을 보낼 수 있다
+- 따라서 최대 유량 23을 보낼 수 있다
 
 ### Ford-Fulkerson Algorithm code
 경로를 찾는 DFS 함수
