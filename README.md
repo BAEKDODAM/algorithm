@@ -1,3 +1,7 @@
 # algorithm
 
-사용 언어: python3
+### Programming Language
+- python3
+
+### 알고리즘 사이트
+- programmers[https://programmers.co.kr/learn/challenges]
