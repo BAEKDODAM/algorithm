@@ -1,6 +1,3 @@
-# 컴퓨터 알고리즘 
-### 정보통신공학과 201801665 백도담
---- 
 # Ford-Fulkerson Algorithm
 
 ## 네트워크 유량(Network Flow)
