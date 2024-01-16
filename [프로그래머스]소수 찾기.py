@@ -10,7 +10,14 @@
     - "013"은 0, 1, 3 숫자가 적힌 종이 조각이 흩어져있다는 의미
 
 풀이. 
-    1.  itertools의 permutations(순열) 사용
+   - loop 사용
+     1. 생성  가능한  모든 숫자  조합을 만든다
+        (permutation, map, set 사용)
+     2. 숫자들의 조합 중 소수가 아닌 수를  전부 제거한다
+   - 재귀
+     1. 생성 가능한 모든 숫자 조합을 하나씩 만든다
+        (set 사용)
+     2. 지금 만들어진 숫자가 소수인지 판단한다
 '''
 from itertools import permutations
 import math
