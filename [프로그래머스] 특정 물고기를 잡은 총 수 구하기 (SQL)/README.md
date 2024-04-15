@@ -2,7 +2,7 @@
 
 ## 문제
 
-[](https://school.programmers.co.kr/learn/courses/30/lessons/298518)
+[[프로그래머스 Lv2] 특정 물고기를 잡은 총 수 구하기 (SQL)](https://school.programmers.co.kr/learn/courses/30/lessons/298518)
 
 ### 테이블
 
